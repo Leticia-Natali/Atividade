@@ -1,0 +1,1 @@
+Informações sobre o uso do Git
